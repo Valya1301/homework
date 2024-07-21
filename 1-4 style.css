@@ -1,0 +1,84 @@
+/* Задание 3 */
+/* .heading {
+    text-decoration: underline;
+    color: blue;
+}
+
+.paragraph {
+    font-weight: bold;
+    color: red;
+    
+}
+
+
+.paragraph1 {
+    color: red;
+    font-size: 30px;
+}
+
+.paragraph2 {
+    color: blue;
+    font-size: 30px;
+} 
+
+.paragraph3 {
+    color: purple;
+    font-size: 30px;
+}
+*/
+
+
+.container {
+    border: 1px solid green;
+    width: 340px; 
+    height: 345px; 
+}
+
+.image {
+    width: 120px;
+    height: 90px;
+}
+
+h3 {
+    color: red;  
+}
+
+p {
+    color: red;
+    font-weight: bold;
+}
+
+p1 {
+    color: green; 
+    font-style: italic;
+}
+p2 {
+    color: blue;
+}
+
+p3 {
+    color: blue;
+}
+
+p4 {
+    color: blue;
+}
+
+p5 {
+    color: red;
+}
+
+input {
+    color: red;
+}
+
+input {
+    border-color: red;
+}
+
+button {
+    color: green;
+    width: 150px;
+    height: 50px;
+    border-color: green;
+}

@@ -1,0 +1,46 @@
+.container {
+    display: flex;
+    
+    
+    }
+    
+    .box1 {
+        border: 1px solid black;
+        display: flex;
+        width: 200px;
+        height: 200px;
+        background-color: cyan;
+        align-items: center;
+        font-weight: bold;
+        font-size: 40px;
+        justify-content: center;
+    }
+    
+    .box2 {
+        border: 1px solid black;
+        justify-content: center;
+        display: flex;
+        height: 200px;
+        width: 400px;
+        background-color: cyan;
+        align-items: center;
+        font-weight: bold;
+        font-size: 40px;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    
+    .box3 {
+        border: 1px solid black;
+        height: 200px;
+        width: 200px;
+        background-color: cyan;
+        display: flex;
+        align-items: center;
+        font-weight: bold;
+        font-size: 40px;
+        justify-content: center;
+        
+    }
+    
+    

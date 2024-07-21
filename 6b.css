@@ -1,0 +1,27 @@
+.block {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    display: flex;
+    position: relative;
+    background-color: cyan;
+    }
+    
+    .box {
+        width: 90px;
+        height: 60px;
+        background-color: red;
+        position: absolute;
+        left: 100px;
+        top: 10px;  
+    }
+
+    .text {
+        display: flex;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 10px;
+        top: 35px
+    }
+    

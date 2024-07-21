@@ -1,0 +1,58 @@
+.block {
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    display: flex;
+    position: relative;
+    background-color: cyan;
+    }
+    
+    .box1 {
+        margin-top: 160px;
+        justify-content: left;
+        display: flex;
+        width: 100px;
+        height: 80px;
+        background-color: red;
+        position: absolute;
+        font-weight: bold;
+        font-size: 20px;
+        
+        
+    }
+    .box2 {
+        
+        margin-left: 50px;
+        display: flex;
+        width: 100px;
+        height: 80px;
+        background-color: red;
+        position: absolute;
+        left: 100px;
+        font-weight: bold;
+        font-size: 20px;
+        align-items:  end;
+    
+    }
+    .box3 {
+        margin-left: 50px;
+        display: flex;
+        width: 100px;
+        height: 80px;
+        background-color: red;
+        position: absolute;
+        left: 100px;
+        font-weight: bold;
+        font-size: 20px; 
+        justify-content: right;
+        
+    }
+
+    .text {
+        display: flex;
+        font-weight: bold;
+        font-size: 20px;
+        position: absolute;
+        left: 10px;
+        top: 35px
+    }

@@ -1,0 +1,190 @@
+.container {
+    display: flex;
+    position: relative;
+}
+
+.block1 {
+    
+    display: flex;
+    border: 1px solid gray;
+    width: 300px;
+    height: 485px;
+    border-radius: 10px;
+}
+
+.image {
+    
+    width: 300px;
+    height: 485px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.image img {
+    
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+}
+.price {
+    font-size: 20px;
+    line-height: 50px;
+    margin-left: 15px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.title {
+    color: #2a81dd; 
+    font-size: 19px;
+    font-weight: 400px;
+    line-height: 35px;
+    margin-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.description {
+    font-size: 17px;
+    line-height: 23px;
+    margin-left: 15px;
+    font-family:  Arial, Helvetica, sans-serif;
+}
+.region {
+    font-size: 17px;
+    margin-top: 110px;
+    margin-left: 15px;
+    color: gray;
+}
+
+.date {
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+    margin-left: 15px;
+    color: gray;
+    vertical-align: middle;
+    margin-top: 5px;
+
+}
+
+.date .eye-image {
+    height: 10px;
+    width: 15px;
+    margin-left: 10px; 
+    vertical-align: middle;
+}
+
+.year {
+margin-left: 10px; 
+    font-size: 17px;
+    color: gray;
+
+}
+
+.date .achievements-image {
+    width: 30px;
+    height: 20px;
+    margin-left: 110px;
+}
+
+
+
+.block2 {
+    
+    border: 1px solid gray;
+    width: 300px;
+    height: 485px;
+    border-radius: 10px;
+    margin-left: 30px;
+        margin-right: 30px;
+}
+.image2 {
+    
+    width: 300px;
+    height: 485px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.image2 img {
+    
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+}
+
+.price2 {
+    
+    font-size: 20px;
+    line-height: 50px;
+    margin-left: 15px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.credit{
+        background-color: #ffd313;
+        border-radius: 4px;
+        font-size:  20px;
+        font-weight: 600; 
+        line-height: 24px; 
+        margin-left: 15px;
+        padding: 0 4px;
+    }
+
+.block3 {
+    display: flex;
+    border: 1px solid gray;
+    width: 300px;
+    height: 485px;
+    border-radius: 10px;
+}
+
+.image3 {
+    
+    width: 300px;
+    height: 485px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.image3 img {
+    
+    width: 100%; 
+    height: auto; 
+    display: block; 
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+}
+
+.new {
+    background-color:  #64bd38;
+    border-radius: 4px;
+    padding: 0 4px;
+    font-size: 17px;
+    font-weight: 400;
+    color: white;
+    margin-left: 15px;
+}
+
+.dealer {
+    background-color: #8fa0b2;
+    border-radius: 4px;
+    padding: 0 4px;
+    font-size: 17px;
+    font-weight: 400;
+    color: white;
+}
+
+.region3 {
+    font-size: 17px;
+    margin-top: 90px;
+    margin-left: 15px;
+    color: gray;
+}
+
+.date .icons {
+    width: 25px;
+    height: 21px;
+    
+
+}
